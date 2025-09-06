@@ -45,10 +45,5 @@ NetBeans IDE – Development environment
 
 OOP Concepts – For code modularity and maintainability
 
-*Overview of the frame-
-
-
- ![atm](https://github.com/user-attachments/assets/09b0f77a-fff0-4268-ab46-faed98fd736f)
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
